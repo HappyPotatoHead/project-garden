@@ -2,6 +2,7 @@
 id: Twenty Something Bucket List
 aliases: []
 tags: []
+draft: true
 title: twenty something
 ---
 
