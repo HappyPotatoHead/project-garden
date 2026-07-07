@@ -7,6 +7,12 @@ draft: false
 title: Logs
 ---
 
+# 07/07/2026
+
+- New:
+  - [[The Reappearance of Rachel Price]]
+  - [[Project Ideas#Posture Analysis with VLM - July 2026|dystopian project]]
+
 # 01/07/2026
 
 - New:

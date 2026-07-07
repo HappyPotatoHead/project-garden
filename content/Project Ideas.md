@@ -8,6 +8,12 @@ title: Project Ideas
 
 > _Someone validate my ideas pls_
 
+# Posture Analysis with VLM - July 2026
+
+> Stole it from my friend
+
+A dystopian-esque software to moniter if their children are studying with a VLM.
+
 # mediadl - June 2026
 
 It's a `yt-dlp` wrapper written in Rust.
