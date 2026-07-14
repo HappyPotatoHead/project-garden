@@ -7,74 +7,79 @@ draft: false
 title: Logs
 ---
 
+# 14/07/2026
+
+- Changes:
+    - [[Hobbies/What I read/index|Book list appearance changes]]
+
 # 07/07/2026
 
 - New:
-  - [[The Reappearance of Rachel Price]]
-  - [[Project Ideas#Posture Analysis with VLM - July 2026|dystopian project]]
+    - [[The Reappearance of Rachel Price]]
+    - [[Project Ideas#Posture Analysis with VLM - July 2026|dystopian project]]
 
 # 01/07/2026
 
 - New:
-  - [toc for mobile](https://github.com/HappyPotatoHead/quartz5-drawer)
-    - _i should change the name_
-    - not a replacement, so you still need the default one
+    - [toc for mobile](https://github.com/HappyPotatoHead/quartz5-drawer)
+        - _i should change the name_
+        - not a replacement, so you still need the default one
 - Changes:
-  - Grid colours change for dark mode
+    - Grid colours change for dark mode
 
 # 30/06/2026
 
 - New:
-  - [Quartz5 image zooming thing](https://github.com/HappyPotatoHead/quartz5-clickable-images)
+    - [Quartz5 image zooming thing](https://github.com/HappyPotatoHead/quartz5-clickable-images)
 - Changes:
-  - Appearance changes
-    - Hovering effect
-    - Box effect
-    - Size changes
+    - Appearance changes
+        - Hovering effect
+        - Box effect
+        - Size changes
 - Note:
-  - _I should put more content_
+    - _I should put more content_
 
 # 22/06/2026
 
 - Changes:
-  - Upgraded to Quartz5
-  - Changes tags scss
-  - Changed [[index.md]]
-  - Added more content in [[Imposter Syndrome]]
+    - Upgraded to Quartz5
+    - Changes tags scss
+    - Changed [[index.md]]
+    - Added more content in [[Imposter Syndrome]]
 
 # 21/06/2026
 
 - Changes:
-  - Changes the notes surrounding LeetCode
-    - They will focus more on patterns and templates.
-      - [[Array and Hashing.md]]
+    - Changes the notes surrounding LeetCode
+        - They will focus more on patterns and templates.
+            - [[Array and Hashing.md]]
 
 # 18/06/2026
 
 - Changes:
-  - Updated [[Offline Signature Verification]]
-  - Made [[index|updates]] less intrusive
+    - Updated [[Offline Signature Verification]]
+    - Made [[index|updates]] less intrusive
 
 # 17/06/2026
 
 - New:
-  - [mediadl](https://github.com/HappyPotatoHead/mediadl)
+    - [mediadl](https://github.com/HappyPotatoHead/mediadl)
 
 # 05/06/2026
 
 - New:
-  - Added Fedora KDE rice in [[Ricing Linux]]
-  - Updated [Arch Linux dot files](https://github.com/HappyPotatoHead/dotfiles)
+    - Added Fedora KDE rice in [[Ricing Linux]]
+    - Updated [Arch Linux dot files](https://github.com/HappyPotatoHead/dotfiles)
 
 # 02/06/2026
 
 - New:
-  - [[Cross-Dataset Generalisation]]
-  - Sources in [[Resources|resources]]
-  - GitHub repository link in [[QS Ranking Analysis]]
+    - [[Cross-Dataset Generalisation]]
+    - Sources in [[Resources|resources]]
+    - GitHub repository link in [[QS Ranking Analysis]]
 - Changes:
-  - Specifications and tools in [[What I Use]]
-  - [[index]]
+    - Specifications and tools in [[What I Use]]
+    - [[index]]
 
 # 20th April 2026
 
@@ -96,7 +101,7 @@ title: Logs
 
 - Updated index page
 - To-do (Eventually):
-  - _~~I really should fill [[QS Ranking Analysis]]~~_ <br> ~~I am definitely not filling up [[QS Ranking Analysis]]~~ One of these days
+    - _~~I really should fill [[QS Ranking Analysis]]~~_ <br> ~~I am definitely not filling up [[QS Ranking Analysis]]~~ One of these days
 
 # 4th January 2026
 
@@ -110,16 +115,16 @@ title: Logs
 # 20th October 2025
 
 - Added self-hosting pages! Check them out!
-  - [[Self-Hosting]]
-  - [[NextCloud]]
-  - [[Tailscale]]
-  - [[Navidrome]]
-  - [[Reverse Proxy with Nginx]]
+    - [[Self-Hosting]]
+    - [[NextCloud]]
+    - [[Tailscale]]
+    - [[Navidrome]]
+    - [[Reverse Proxy with Nginx]]
 
 # 12th October 2025
 
 - Updated ~~[[100 Notes]]~~ [[Jane Doe]]
-  - Added notes
+    - Added notes
 
 # 29th September 2025
 
@@ -173,7 +178,7 @@ _I've been really busy lately_
 # 19th April 2025
 
 - Made table of content collapsible on mobile
-  - Idea from [here!](https://quartz.eilleeenz.com/Quartz-customization-log#making-a-second-table-of-contents-component)
+    - Idea from [here!](https://quartz.eilleeenz.com/Quartz-customization-log#making-a-second-table-of-contents-component)
 - Added [[The Anchor Bias, Hasty Generalisation, & Loss Aversion]]
 
 # 15th April 2025

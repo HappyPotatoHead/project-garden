@@ -9,7 +9,6 @@ title: Where Ideas Grow
 <div class = "page-links" >
     <a href = "https://www.linkedin.com/in/jimmy-ding/" target="_blank" rel="noopener noreferrer"> linkedin </a>
     <a href = "https://github.com/HappyPotatoHead" target="_blank" rel="noopener noreferrer"> github </a>
-    <a href = "https://www.instagram.com/jmmyd_/" target="_blank" rel="noopener noreferrer">instagram</a>
     <a href = "assets/resume.pdf" target="_blank" rel="noopener noreferrer">resume</a>
     <a href = "mailto:jimmydingjk@gmail.com" >gmail</a>
 </div>
@@ -20,11 +19,9 @@ title: Where Ideas Grow
 
 <!-- <img src="/images/meh.jpg" class="index-image" alt="Digital garden illustration"> -->
 
-> im unemployed, pls help
-
 <span style="font-size:1.25rem">Welcome!</span>
 
-This digital garden showcases my work, experiments, and ideas. I mainly focus on machine learning and deep learning.
+This digital garden showcases my work, experiments, and ideas.
 
 > If you just want the projects: [pinned](https://pinned.surge.sh)
 
@@ -33,42 +30,43 @@ This digital garden showcases my work, experiments, and ideas. I mainly focus on
 > migrated a quartz4 plugin to quartz5; see [here](https://github.com/HappyPotatoHead/quartz5-clickable-images) and [here](https://github.com/HappyPotatoHead/quartz5-drawer)
 >
 > still learning [rust](https://rust-lang.org)!
-> Check out what I made while learning rust [here (mediadl)](https://github.com/HappyPotatoHead/mediadl)
+> trying to add [ratatui](https://ratatui.rs)
+> check out what I made while learning rust [here (mediadl)](https://github.com/HappyPotatoHead/mediadl)
 >
-> See the full changes at [[Logs]]
+> see the full changes at [[Logs]]
 
 ### selected work
 
 > the big trees
 
-- [[Offline Signature Verification]] - DL research, Deep metric learning, PyTorch ✨✨
-- [[Cross-Dataset Generalisation]] - DL research, data augmentation, cross-dataset generalisation, PyTorch ✨✨
+- [[Offline Signature Verification|offline signature verification]] - DL research, Deep metric learning, PyTorch ✨✨
+- [[Cross-Dataset Generalisation|cross-dataset generalisation]] - DL research, data augmentation, cross-dataset generalisation, PyTorch ✨✨
 - [mediadl](https://github.com/HappyPotatoHead/mediadl) - Streamline YouTube audio archiving ✨✨
-  - [audio-dl](https://github.com/HappyPotatoHead/audio-dl) is now a public archive
-- [[Cardiovascular Risk Analysis]] - ML pipeline, feature engineering, evaluation
+    - [audio-dl](https://github.com/HappyPotatoHead/audio-dl) is now a public archive
+- [[Cardiovascular Risk Analysis|cardiovascular risk analysis]] - ML pipeline, feature engineering, evaluation
 
 ### fun && artistic projects
 
 > small, strange flowers and mushrooms
 
-- [[Bongo Animals]] - Bongo with a shark and a dog
+- [[Bongo Animals|bongo animals]] - Bongo with a shark and a dog
 - [[something about letting go]] - there's something about letting go
-- [[Jane Doe]] - to whom it may concern
+- [[Jane Doe|jane doe]] - to whom it may concern
 
 ### side quests
 
 > small trails we can follow
 
-- [[Self-Hosting]] - Exploring Linux, Docker, home servers, data ownership
-- [[How To - Set Up Arch Linux|How To: Set Up Arch Linux]]
+- [[Self-Hosting|self-hosting]] - Exploring Linux, Docker, home servers, data ownership
+- [[How To - Set Up Arch Linux|how to: set up arch linux]]
 
 ### notes and resources
 
 > seeds, clippings, and other things worth sharing
 
-- [[Hobbies/What I read/index|Books, articles, curated notes]]
-- [[Project Ideas|Project Ideas / Brainstorming]]
-- [[Resources]]
+- [[Hobbies/What I read/index|books, articles, curated notes]]
+- [[Project Ideas|project ideas / brainstorming]]
+- [[Resources|resources]]
 - [nvim configuration](https://github.com/HappyPotatoHead/nvim-config)
 
 ### miscellaneous
