@@ -7,6 +7,18 @@ draft: false
 title: Logs
 ---
 
+# 19/07/2026
+
+- New:
+    - [[Stack]]
+    - [[Two Pointers]]
+    - [[Two Pointers]]
+    - [[Binary Search]]
+    - Finished three body problem part 1
+- Changes:
+    - Background grid
+    - Font changes
+
 # 14/07/2026
 
 - Changes:

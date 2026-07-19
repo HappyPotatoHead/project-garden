@@ -105,6 +105,16 @@ title: What I Read
 
 </div>
 
+## Sci-Fi
+
+<div class = "reading-grid">
+
+- ![[three_body_problem.png|Three Body Problem]] [Three Body Problem](https://www.goodreads.com/book/show/20518872-the-three-body-problem)
+  **Liu Cixin**
+  🌕🌕🌕🌕🌗
+
+</div>
+
 # Non-fiction
 
 > These are only as good as the way you apply them—or whether you apply them at all.

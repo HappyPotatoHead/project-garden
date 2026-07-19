@@ -23,6 +23,8 @@ title: Where Ideas Grow
 
 This digital garden showcases my work, experiments, and ideas.
 
+> I'm procrastinating so hard right now
+
 > If you just want the projects: [pinned](https://pinned.surge.sh)
 
 > [!announcement]- Updates

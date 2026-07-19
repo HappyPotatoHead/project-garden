@@ -10,11 +10,18 @@ title: What I Use
 
 ## Specifications
 
-- Processors: i7-14700K (_You absolutely do not need this_)
+### Hardware
+
+- Processors: i7-14700K
 - Memory: 32 GiB RAM
 - Graphics Processor 1: GeForce RTX 4070 SUPER
 - Graphics Processor 2: Integrated GPU
 - Motherboard: Gigabyte Z790 UD AX
+
+### Software
+
+- Operating System: Fedora 44
+- Desktop Environment: KDE Plasma
 
 ## Peripherals
 
@@ -25,7 +32,7 @@ title: What I Use
 - Creative Pebble
 - 8BitDo Ultimate 2c
 - HUION HS64
-- Ugreen Vertical Mouse (I had a BOW one, but alas, it was too big for my hand)
+- B.O.W vertical mouse
 
 ## Accessories
 
@@ -43,7 +50,7 @@ title: What I Use
 ## Note Taking
 
 - [Obsidian](https://obsidian.md/)
-- [Microsoft's OneNote](https://www.onenote.com/)
+- [nvim](https://neovim.io/)
 
 ## Programming
 
@@ -66,3 +73,11 @@ title: What I Use
 - [ShotCut](https://www.shotcut.org/)
 - [OBS](https://obsproject.com/)
 - [Audacity](https://www.audacityteam.org/)
+
+# Entertainment
+
+## Music
+
+- [YouTube Music](https://music.youtube.com/)
+- [Symphonium](https://www.symfonium.app/)
+- [cmus](https://cmus.github.io/)

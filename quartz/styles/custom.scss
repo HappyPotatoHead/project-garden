@@ -388,6 +388,7 @@ body[data-slug=""] .right.sidebar {
     margin: 0 0.35rem;
     font-size: 0.9rem;
 }
+
 body {
     background-image:
         linear-gradient(color-mix(in srgb, var(--lightgray) 45%, transparent) 1px, transparent 1px),
@@ -396,7 +397,7 @@ body {
             color-mix(in srgb, var(--lightgray) 45%, transparent) 1px,
             transparent 1px
         );
-    background-size: 32px 32px;
+    background-size: 24px 24px;
     background-position: center;
 }
 
@@ -421,17 +422,11 @@ body {
         list-style: none;
         margin: 0;
 
-        a,
-        p {
+        a {
             font-size: 1.2rem;
             display: block;
             line-height: 1.2;
         }
-
-        // p {
-        //     // margin: 0.5rem 0 0 0;
-        //     font-size: 0.8rem;
-        // }
 
         strong {
             font-size: 0.8rem;
@@ -443,7 +438,6 @@ body {
             height: auto;
             object-fit: contain;
             border-radius: 4px;
-            // margin: 0 auto;
         }
     }
 }
