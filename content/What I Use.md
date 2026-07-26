@@ -20,19 +20,19 @@ title: What I Use
 
 ### Software
 
-- Operating System: Fedora 44
-- Desktop Environment: KDE Plasma
+- Operating System: [Fedora 44](https://fedoraproject.org/)
+- Desktop Environment: [KDE Plasma](https://kde.org/plasma-desktop/)
 
 ## Peripherals
 
 - Xiaomi Monitor A24i
-- Aula F75 Keyboard
-- Moondrop Space Travel
-- Creative Zen Hybrid GEN 2
-- Creative Pebble
-- 8BitDo Ultimate 2c
-- HUION HS64
-- B.O.W vertical mouse
+- [Aula F75 Keyboard](https://aulakeyboard.com/product/aula-f75/)
+- [Moondrop Space Travel](https://moondroplab.com/en/products/space-travel)
+- [Creative Zen Hybrid GEN 2](https://us.creative.com/p/headphones-headsets/creative-zen-hybrid-gen-2)
+- [Creative Pebble](https://us.creative.com/p/speakers/creative-pebble)
+- [8BitDo Ultimate 2c](https://www.8bitdo.com/ultimate-2c-wireless-controller/)
+- [HUION HS64](https://www.huion.com/products/hs64)
+- [B.O.W vertical mouse](https://www.bow.cn/en/products/bow-md190lchongdiansanmurentigongxuechuizhishubiaowuxianlanyabijibenjingyinnvshengzhongxiaoshoulishi.html)
 
 ## Accessories
 
@@ -41,9 +41,8 @@ title: What I Use
 
 # On The Go
 
-- Redmi Pad Pro
+- [xteink x4](https://www.xteink.com/products/xteink-x4)
 - Dell Latitude 3410
-- Redmi Note 10s as an e-reader
 
 # Software
 
