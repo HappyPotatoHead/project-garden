@@ -7,6 +7,10 @@ draft: false
 title: Logs
 ---
 
+# 21/07/2026
+
+- Finished The Dark Forest
+
 # 19/07/2026
 
 - New:
