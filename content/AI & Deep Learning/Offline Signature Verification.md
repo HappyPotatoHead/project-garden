@@ -16,11 +16,13 @@ title: Offline Signature Verification
     <a href = "https://github.com/HappyPotatoHead/signature-verification-sct-plus" target="_blank" rel="noopener noreferrer"style="color:#92BFDB"> source code </a>
 </div>
 
+> [!Update] Update - 07/07/2026
+> [The report has been published!](http://eprints.utar.edu.my/7760/)
+
 > This project has come to an end as I pursue other endeavours - 18/06/2026
 >
 > Maybe I'll return and expand upon on this in the future.
 >
-> My university publishes students' fyp in its institutional repository, I will link it when it's added
 > _[[Offline Signature Verification#Results|Skip to Result]]_
 
 # Project Overview
@@ -186,7 +188,7 @@ The conventional loss function is as follows:
 
 1. There are three nodes, collectively called a triplet, comprising an anchor, a genuine signature (positive), and a forged signature or an inter-class signature (negative).
 2. The goal is to pull similar images (anchor and positive) closer while pushing dissimilar images (anchor and negative) away.
-   - This is achieved by ensuring that the anchor is slower to the positive than it is to the negative by at least a margin ($\alpha$)
+    - This is achieved by ensuring that the anchor is slower to the positive than it is to the negative by at least a margin ($\alpha$)
 
 $$
 
@@ -341,13 +343,13 @@ The reported accuracy should therefore be interpreted as the accuracy obtained a
 I implemented key features for training such as:
 
 - **Early Stopping**
-  - Monitors validation loss and automatically halts training if no significant improvement is observed over a set number of epochs, preventing overfitting
+    - Monitors validation loss and automatically halts training if no significant improvement is observed over a set number of epochs, preventing overfitting
 - **Learning Rate Scheduling**
-  - Manages the adjustment of the learning rate throughout training to optimise convergence.
+    - Manages the adjustment of the learning rate throughout training to optimise convergence.
 - **Checkpointing**
-  - Automatically saves model snapshots - weights, and optimizer state - at key points when a new best validation loss is achieved, ensuring progress can be restored and the best model recovered.
+    - Automatically saves model snapshots - weights, and optimizer state - at key points when a new best validation loss is achieved, ensuring progress can be restored and the best model recovered.
 - **Device Management:**
-  - Handles moving data and the model to the GPU for accelerated computation.
+    - Handles moving data and the model to the GPU for accelerated computation.
 
 To ensure a fair comparison of all the models, the configurations for the scheduler, optimiser and training, as well as the model, were kept mostly similar.
 The margin hyperparameter was fixed at 0.5 across all loss functions, ensuring that the differences in performance were attributable to the loss formulation rather than margin selection.
@@ -649,13 +651,13 @@ Check it out here! [Demo site](https://sct-signature-demo.streamlit.app/)
 # To-Do List
 
 1. ~~Extensive hyperparameter fine-tuning~~
-   - It usually results in diminishing return, which is why I didn't do it.
-     - Also because the existence of loss function such as this complicates the matter much more.
+    - It usually results in diminishing return, which is why I didn't do it.
+        - Also because the existence of loss function such as this complicates the matter much more.
 2. ~~Implementation and deployment~~
-   - It's deployed to [streamlit](https://sct-signature-demo.streamlit.app/)
+    - It's deployed to [streamlit](https://sct-signature-demo.streamlit.app/)
 3. ~~Try different datasets~~
-   - ~~I'm making my own test dataset~~
-     - I made the dataset! Look at []
+    - ~~I'm making my own test dataset~~
+        - I made the dataset! Look at []
 
 [^1]: [EfficientNetV2](https://arxiv.org/abs/2104.00298)
 
