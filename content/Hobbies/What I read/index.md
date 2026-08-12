@@ -111,10 +111,13 @@ title: What I Read
 
 - ![[three_body_problem.png|Three Body Problem]] [Three Body Problem](https://www.goodreads.com/book/show/20518872-the-three-body-problem)
   **Liu Cixin**
-  🌕🌕🌕🌕🌗
+  🌕🌕🌕🌕🌑
 - ![[the_dark_forest.jpg|The Dark Forest]] [The Dark Forest](https://www.goodreads.com/book/show/23168817-the-dark-forest)
   **Liu Cixin**
-  🌕🌕🌕🌕🌗
+  🌕🌕🌕🌕🌕
+- ![[death_end.jpg|Death's End]][Death's End](https://www.goodreads.com/en/book/show/25451264-death-s-end)
+  **Liu Cixin**
+  🌕🌕🌕🌕🌕
 
 </div>
 

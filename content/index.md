@@ -31,9 +31,7 @@ This digital garden showcases my work, experiments, and ideas.
 >
 > migrated a quartz4 plugin to quartz5; see [here](https://github.com/HappyPotatoHead/quartz5-clickable-images) and [here](https://github.com/HappyPotatoHead/quartz5-drawer)
 >
-> still learning [rust](https://rust-lang.org)!
-> trying to add [ratatui](https://ratatui.rs)
-> check out what I made while learning rust [here (mediadl)](https://github.com/HappyPotatoHead/mediadl)
+> Added [ratatui](https://ratatui.rs) to [mediadl](https://github.com/HappyPotatoHead/mediadl)!
 >
 > see the full changes at [[Logs]]
 

@@ -7,6 +7,12 @@ draft: false
 title: Logs
 ---
 
+# 12/08/2026
+
+- Finished Death's End
+- Added ratatui
+- Offline signature verification fyp published
+
 # 21/07/2026
 
 - Finished The Dark Forest
