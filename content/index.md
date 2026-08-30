@@ -69,9 +69,10 @@ This digital garden showcases my work, experiments, and ideas.
 - [[Resources|resources]]
 - [nvim configuration](https://github.com/HappyPotatoHead/nvim-config)
 
-### miscellaneous
+### tools
 
 - [quartz5 image zooming thing](https://github.com/HappyPotatoHead/quartz5-clickable-images)
+- [quartz5 mobile table of content](https://github.com/HappyPotatoHead/quartz5-drawer)
 
 <!-- > [!QUOTE] Click me! -->
 <!---->

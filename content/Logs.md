@@ -7,6 +7,10 @@ draft: false
 title: Logs
 ---
 
+# 30/08/2026
+
+- I don't know, I'm just tired
+
 # 12/08/2026
 
 - Finished Death's End
