@@ -92,6 +92,8 @@ plugins:
       enabled: true
       options:
           markdownLinkResolution: shortest
+          externalLinkIcon: false
+          openLinksInNewTab: true
       order: 60
     - source: github:quartz-community/description
       enabled: true
