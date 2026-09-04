@@ -7,6 +7,11 @@ draft: false
 title: Logs
 ---
 
+# 04/09/2026
+
+- Updated [[index.md|front page]]
+- Updated book cover images
+
 # 30/08/2026
 
 - I don't know, I'm just tired
@@ -14,7 +19,7 @@ title: Logs
 # 12/08/2026
 
 - Finished Death's End
-- Added ratatui
+- Added ratatui to mediadl
 - Offline signature verification fyp published
 
 # 21/07/2026

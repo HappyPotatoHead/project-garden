@@ -23,9 +23,7 @@ title: Where Ideas Grow
 
 This digital garden showcases my work, experiments, and ideas.
 
-> I'm procrastinating so hard right now
-
-> If you just want the projects: [pinned](https://pinned.surge.sh)
+> If you just want the projects: [pinned](https://pinned.surge.sh) (_I will update this soon!_)
 
 > [!announcement]- Updates
 >
@@ -37,21 +35,13 @@ This digital garden showcases my work, experiments, and ideas.
 
 ### selected work
 
-> the big trees
+> the big trees ✨✨
 
-- [[Offline Signature Verification|offline signature verification]] - DL research, Deep metric learning, PyTorch ✨✨
-- [[Cross-Dataset Generalisation|cross-dataset generalisation]] - DL research, data augmentation, cross-dataset generalisation, PyTorch ✨✨
-- [mediadl](https://github.com/HappyPotatoHead/mediadl) - Streamline YouTube audio archiving ✨✨
+- [[Offline Signature Verification|offline signature verification]] - DL research, Deep metric learning, PyTorch
+- [[Cross-Dataset Generalisation|cross-dataset generalisation]] - DL research, data augmentation, cross-dataset generalisation, PyTorch
+- [mediadl](https://github.com/HappyPotatoHead/mediadl) - Streamline media archiving
     - [audio-dl](https://github.com/HappyPotatoHead/audio-dl) is now a public archive
 - [[Cardiovascular Risk Analysis|cardiovascular risk analysis]] - ML pipeline, feature engineering, evaluation
-
-### fun && artistic projects
-
-> small, strange flowers and mushrooms
-
-- [[Bongo Animals|bongo animals]] - Bongo with a shark and a dog
-- [[something about letting go]] - there's something about letting go
-- [[Jane Doe|jane doe]] - to whom it may concern
 
 ### side quests
 
@@ -69,10 +59,20 @@ This digital garden showcases my work, experiments, and ideas.
 - [[Resources|resources]]
 - [nvim configuration](https://github.com/HappyPotatoHead/nvim-config)
 
-### tools
+### open-source tools
+
+> wildflowers
 
 - [quartz5 image zooming thing](https://github.com/HappyPotatoHead/quartz5-clickable-images)
 - [quartz5 mobile table of content](https://github.com/HappyPotatoHead/quartz5-drawer)
+
+### fun && artistic projects
+
+> small, strange flowers and mushrooms
+
+- [[Bongo Animals|bongo animals]] - Bongo with a shark and a dog
+- [[something about letting go]] - there's something about letting go
+- [[Jane Doe|jane doe]] - to whom it may concern
 
 <!-- > [!QUOTE] Click me! -->
 <!---->

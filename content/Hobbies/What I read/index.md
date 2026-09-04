@@ -7,8 +7,6 @@ date modified: "2025-08-02"
 title: What I Read
 ---
 
-> currently reading 3 body problem
-
 # Fiction
 
 ## Fantasy
