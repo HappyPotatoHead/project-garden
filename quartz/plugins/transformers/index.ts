@@ -1,1 +1,1 @@
-export { TelescopicText } from './_telescopic'
+// export { TelescopicText } from './_telescopic'
