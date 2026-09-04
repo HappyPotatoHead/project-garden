@@ -166,72 +166,124 @@ description:
 
 ### Networking
 
-| Name          | Link                       | Description                                    |
-| ------------- | -------------------------- | ---------------------------------------------- |
-| Tailscale VPN | https://tailscale.com/     | Built on top of wireguard                      |
-| Wireguard     | https://www.wireguard.com/ | If Tailscale is too easy for you               |
-| Pfsense       | https://www.pfsense.org/   | If you want the most control over your network |
+<div class = "card-grid">
+
+- **Tailscale VPN**
+  Built on top of wireguard
+  [free vpn](https://tailscale.com)
+- **Wireguard**
+  If Tailscale is too easy
+  [harder tailscale](https://openclaw.ai)
+- **PfSense**
+  If you want the most control over your network
+  [even after tailscale](https://opencode.ai)
+
+</div>
 
 ### Multimedia
 
-| Name      | Link                            | Description                           |
-| --------- | ------------------------------- | ------------------------------------- |
-| NextCloud | https://docs.nextcloud.com/     | Self-host your own google drive       |
-| Navidrome | https://www.navidrome.org/docs/ | Host your own music streaming service |
-| JellyFin  | https://jellyfin.org/           | Multimedia streaming service          |
+<div class = "card-grid">
+
+- **NextCloud**
+  Self-hosted Google Drive
+  [better cloud](https://docs.nextcloud.com)
+- **Navidrome**
+  Self-hosted music streaming
+  [spotify replacement](https://www.navidrome.org/docs/)
+- **JellyFin**
+  Self-hosted multimedia streaming
+  [jellyfish in the sea](https://jellyfin.org)
+
+</div>
 
 ### Files and Folders
 
-| Name             | Link                            | Description                                                          |
-| ---------------- | ------------------------------- | -------------------------------------------------------------------- |
-| Localsend        | https://localsend.org/          | Lets you send files to every device connected under the same network |
-| KDE Connect      | https://kdeconnect.kde.org/     | Similar to localsend, but with more functionality                    |
-| Open Media Vault | https://www.openmediavault.org/ | To turn your old devices into NAS                                    |
+<div class = "card-grid">
+
+- **LocalSend**
+  Send files to every device under the same network
+  [better apple send thing](https://localsend.org)
+- **KDE Connect**
+  Similar to localsend, but more controls
+  [you can use your phone like a remote](https://kdeconnect.kde.org/)
+- **Open Media Vault**
+  Turn your device into NAS
+  [it's an OS though](https://www.openmediavault.org)
+
+</div>
 
 ## Converters
 
-| Name    | Link                            | Description             |
-| ------- | ------------------------------- | ----------------------- |
-| Cobalt  | https://cobalt.tools/           | Link to mp4, mp3, etc.. |
-| DocuPub | https://docupub.com/pdfconvert/ | Convert files to pdf    |
+<div class = "card-grid">
 
-## Games
+- **Cobalt**
+  [i think it's down though](https://cobalt.tools/)
+- **mediadl**
+  Shameless self-advertisement
+  [it's written in rust!](https://github.com/HappyPotatoHead/mediadl)
+- **DocuPub**
+  [happy converting](https://docupub.com/)
 
-| Name  | Link                     | Description             |
-| ----- | ------------------------ | ----------------------- |
-| Godot | https://godotengine.org/ | Open-source game engine |
+</div>
 
 ## Note Taking
 
-| Name     | Link                     | Description                                                           |
-| -------- | ------------------------ | --------------------------------------------------------------------- |
-| Obsidian | https://obsidian.md/     | Local note-taking app                                                 |
-| Logseq   | https://logseq.com/      | Another open-source local note-taking app. _not my favourite though!_ |
-| OneNote  | https://www.onenote.com/ | Works well on tablets                                                 |
-| PDFGear  | https://www.pdfgear.com/ | PDF reader for Windows and Mac                                        |
-| Okular   | https://okular.kde.org/  | Cross-platform PDF reader                                             |
+<div class = "card-grid">
+
+- **Obsidian**
+  Local note-taking app
+  [contrary to popular belief, this is not open-source](https://obsidian.md/)
+- **Logseq**
+  Also a local note-taking app
+  [but, this one is an open-source app](https://logseq.com)
+- **OneNote**
+  Can't complain; it's free
+  [i hated using this on android](https://www.onenote.com/)
+- **PDFGear**
+  PDF reader for Windows and Mac
+  [surprisingly free](https://www.pdfgear.com/)
+- **Okular**
+  [this is what i use now!](https://www.okular.kde.org/)
+
+</div>
 
 ## Photos/Drawings
 
-| Name     | Link                  | Description                     |
-| -------- | --------------------- | ------------------------------- |
-| Gimp     | https://www.gimp.org/ | Open-source photo editor        |
-| Krita    | https://krita.org/en/ | Open-source drawing application |
-| InkScape | https://inkscape.org/ | Open-source SVG editor          |
+<div class = "card-grid">
+
+- **Gimp**
+  [no, it's not as good as Photoshop](https://gimp.org/)
+- **Krita**
+  [used this to create pixel art](https://krita.org/en/)
+- **InkScape**
+  [used this to make bongo animals](https://inkscape.org)
+
+</div>
 
 ## Videos and Audio
 
-| Name      | Link                                   | Description              |
-| --------- | -------------------------------------- | ------------------------ |
-| Handbrake | https://handbrake.fr/                  | Open-source transcoder   |
-| Openshot  | https://www.openshot.org/              | Open-source video editor |
-| Audacity  | https://www.audacityteam.org/download/ | Open-source audio editor |
+<div class = "card-grid">
+
+- **Handbrake**
+  Transcoder
+  [tbh, i've never used this](https://handbrake.fr/)
+- **Openshot**
+  Video editor
+  [saved my mini project course](https://openshot.org/)
+- **Audacity**
+  Audio editor
+  [used this to make bongo animals](https://www.audacityteam.org/download)
+
+</div>
 
 ## Miscellaneous
 
-| Name                        | Link                               | Description                                     |
-| --------------------------- | ---------------------------------- | ----------------------------------------------- |
-| to be a professional hacker | https://hackertyper.com/           | Hack into the mainframe                         |
-| Gandalf                     | https://gandalf.lakera.ai/baseline | Try to break the model!                         |
-| LM Arena                    | https://arena.ai/                  | Pit models against one another, gladiator style |
-| Flexoki Colour Scheme       | https://stephango.com/flexoki      | This is what im using for this site             |
+<div class = "card-grid">
+
+- **To be a professional hacker**
+  Hack into the mainframe
+  [start hacking](https://hackertype.com/)
+- **Gandalf? Is that you?**
+  [break the model](https://gandalf.lakera.ai/)
+
+</div>
