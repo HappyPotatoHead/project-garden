@@ -2,15 +2,15 @@
 id: What you are looking for is in the library
 aliases: []
 tags:
-- fiction
-- japan
-- books-about-books
-- contemporary
-- short-stories
+    - fiction
+    - japan
+    - books-about-books
+    - contemporary
+    - short-stories
 title: What you are looking for is in the library
 ---
 
-![[what_you_are_looking_for_is_in_the_library.png]]
+![[wyalfiitl.png]]
 
 **Author**: Michiko Aoyama
 

@@ -8,6 +8,10 @@ title: Project Ideas
 
 > _Someone validate my ideas pls_
 
+# Minecraft and n8n
+
+Because sometimes I don't want to spend hours at the cobblestone generator
+
 # Posture Analysis with VLM - July 2026
 
 > Stole it from my friend

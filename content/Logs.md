@@ -7,6 +7,13 @@ draft: false
 title: Logs
 ---
 
+# 06/09/2026
+
+- Updated [[index.md]]
+- Updated [[Resources]], it should look better now
+- New [[Project Ideas#Minecraft and n8n|project idea]]
+- Change darkmode icons
+
 # 04/09/2026
 
 - Updated [[index.md|front page]]

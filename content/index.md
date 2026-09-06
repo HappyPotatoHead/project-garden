@@ -23,13 +23,10 @@ title: Where Ideas Grow
 
 This digital garden showcases my work, experiments, and ideas.
 
-> If you just want the projects: [pinned](https://pinned.surge.sh) (_I will update this soon!_)
-
-> [!announcement]- Updates
+> [!announcement] Updates
 >
-> migrated a quartz4 plugin to quartz5; see [here](https://github.com/HappyPotatoHead/quartz5-clickable-images) and [here](https://github.com/HappyPotatoHead/quartz5-drawer)
->
-> Added [ratatui](https://ratatui.rs) to [mediadl](https://github.com/HappyPotatoHead/mediadl)!
+> Learning how to use n8n and opencode effectively!
+> \- 6th September 2026
 >
 > see the full changes at [[Logs]]
 
