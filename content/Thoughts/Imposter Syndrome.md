@@ -6,26 +6,71 @@ draft: false
 title: Imposter Syndrome
 ---
 
-I feel like imposter syndrome isn't talked about enough, despite its prevalence and the damage it can cause. Many people don't talk about it precisely because of its nature, which is _deeply ironic_.
+I feel like that imposter syndrome isn't talked about enough, despite its prevalence and the damage it can cause.
 
-Well, I'm not qualified enough to talk about it, but someone else is. So here are some resources to help cope with it:
-
-# [HealthyGamerGG](https://www.youtube.com/@HealthyGamerGG)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Eaqb0qeOOeY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tcXCnYs6s_U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ynew5KSbAQQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+> Many people don't talk about it precisely because of its nature. _such irony!_
 
 # [LifeOfRiza](https://www.youtube.com/@LifeOfRiza)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4M6Ykqw26TI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class = "video-wrapper">
+    <iframe 
+        src="https://www.youtube.com/embed/4M6Ykqw26TI" 
+        title="For those feeling behind in life"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+    </iframe>
+</div>
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c_G23FZEB-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class = "video-wrapper">
+    <iframe 
+        src="https://www.youtube.com/embed/c_G23FZEB-c"
+        title="All you have to do is start."
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+    </iframe>
+</div>
+
+# [HealthyGamerGG](https://www.youtube.com/@HealthyGamerGG)
+
+<div class = "video-wrapper">
+    <iframe 
+        src="https://www.youtube.com/embed/Eaqb0qeOOeY" 
+        title="Why Your Perfectionism Makes Life Impossible" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" 
+        allowfullscreen>
+    </iframe>
+</div>
+
+---
+
+<div class = "video-wrapper">
+    <iframe 
+        src="https://www.youtube.com/embed/tcXCnYs6s_U" 
+        title="YouTube video player"
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" 
+        allowfullscreen>
+    </iframe>
+</div>
+
+---
+
+<div class = "video-wrapper">
+    <iframe 
+        src="https://www.youtube.com/embed/Ynew5KSbAQQ" 
+        title="Let's Talk about Perfectionism"
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" 
+        allowfullscreen>
+    </iframe>
+</div>

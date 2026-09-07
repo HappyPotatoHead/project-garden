@@ -30,6 +30,8 @@ This digital garden showcases my work, experiments, and ideas.
 >
 > see the full changes at [[Logs]]
 
+> press the cat to return here!
+
 ### selected work
 
 > the big trees ✨✨

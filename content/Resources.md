@@ -222,7 +222,7 @@ description:
 
 - ![[mediadl_tui.png|please please please please check it out]]
   **mediadl**
-      Shameless self-advertisement
+    Shameless self-advertisement
   [it's written in rust!](https://github.com/HappyPotatoHead/mediadl)
 - **Cobalt**
   web-based converter

@@ -352,6 +352,10 @@ body[data-slug=""] .right.sidebar {
     body[data-slug=""] .right.sidebar::before {
         display: none;
     }
+
+    #quartz-body {
+        width: 100%;
+    }
 }
 
 .page-links {
@@ -552,4 +556,15 @@ body {
             }
         }
     }
+}
+
+.video-wrapper {
+    width: 100%;
+    max-width: 560px;
+    aspect-ratio: 16/9;
+}
+
+.video-wrapper iframe {
+    width: 100%;
+    height: 100%;
 }

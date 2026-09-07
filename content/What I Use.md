@@ -14,8 +14,8 @@ title: What I Use
 
 - Processors: i7-14700K
 - Memory: 32 GiB RAM
-- Graphics Processor 1: GeForce RTX 4070 SUPER
-- Graphics Processor 2: Integrated GPU
+- Graphics (1): GeForce RTX 4070 SUPER
+- Graphics (2): Integrated GPU
 - Motherboard: Gigabyte Z790 UD AX
 
 ### Software
@@ -25,7 +25,7 @@ title: What I Use
 
 ## Peripherals
 
-- Xiaomi Monitor A24i
+- [Xiaomi Monitor A24i](https://www.mi.com/global/product/xiaomi-monitor-a24i/)
 - [Aula F75 Keyboard](https://aulakeyboard.com/product/aula-f75/)
 - [Moondrop Space Travel](https://moondroplab.com/en/products/space-travel)
 - [Creative Zen Hybrid GEN 2](https://us.creative.com/p/headphones-headsets/creative-zen-hybrid-gen-2)
@@ -36,28 +36,29 @@ title: What I Use
 
 ## Accessories
 
-- Random black deskmat
-- Random monitor stands
+- [Random black deskmat](https://shopee.com.my/Large-Mouse-Pad-with-Stitched-Edge-Anti-Slip-Mouse-Mat-3mm-Rubber-Base-Thicken-Mousepad-Desk-Mat-90cm-100cm-120cm-140cm-i.969116254.23737288608)
+- Random monitor stand
 
 # On The Go
 
 - [xteink x4](https://www.xteink.com/products/xteink-x4)
-- Dell Latitude 3410
+- [Dell Latitude 3410](https://www.dell.com/en-us/shop/dell-laptops/latitude-3410-laptop/spd/latitude-14-3410-laptop)
 
 # Software
 
 ## Note Taking
 
+> i just use vscode now
+
 - [Obsidian](https://obsidian.md/)
-- [nvim](https://neovim.io/)
 
 ## Programming
 
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Zed](https://zed.dev/)
 - [nvim](https://neovim.io/)
-- [Docker](https://www.docker.com/)
 - [kickstarter](https://github.com/nvim-lua/kickstart.nvim)
+- [Docker](https://www.docker.com/)
 
 ## Creative
 
@@ -77,6 +78,7 @@ title: What I Use
 
 ## Music
 
-- [YouTube Music](https://music.youtube.com/)
 - [Symphonium](https://www.symfonium.app/)
 - [cmus](https://cmus.github.io/)
+- [MusicBrainz Picard](https://picard.musicbrainz.org/)
+- [Music for Programming](https://musicforprogramming.net/latest/)

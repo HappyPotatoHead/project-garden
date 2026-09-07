@@ -12,6 +12,8 @@ title: Project Ideas
 
 Because sometimes I don't want to spend hours at the cobblestone generator
 
+> [n8n](https://n8n.io/)
+
 # Posture Analysis with VLM - July 2026
 
 > Stole it from my friend

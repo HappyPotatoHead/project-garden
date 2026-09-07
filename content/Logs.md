@@ -7,6 +7,10 @@ draft: false
 title: Logs
 ---
 
+# 07/09/2026
+
+- Finally fixed the width problem
+
 # 06/09/2026
 
 - Updated [[index.md]]
